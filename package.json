@@ -1,0 +1,24 @@
+{
+  "name": "playwright-banking-tests",
+  "version": "1.0.0",
+  "description": "E2E test automation suite for a demo banking application using Playwright and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pragadeesh-M/playwright-banking-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pragadeesh-M/playwright-banking-tests/issues"
+  },
+  "homepage": "https://github.com/Pragadeesh-M/playwright-banking-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0"
+  }
+}
